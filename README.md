@@ -41,3 +41,4 @@ The script integrates the system using the Euler method with a fixed time step (
 ## Output
 
 A 3D plot of the Lorenz attractor is displayed.
+![lorenz_attractor](lorenz_attractor.png)
